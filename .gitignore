@@ -1,5 +1,3 @@
 app/etc/local.xml
 nbproject/
 .idea/
-var/cache/
-var/session/
